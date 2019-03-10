@@ -10,6 +10,7 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "project"
+  page_type = "deep learning"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -52,7 +53,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  # color = "navy"
+   color = "navy"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
